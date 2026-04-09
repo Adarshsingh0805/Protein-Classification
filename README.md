@@ -22,7 +22,7 @@ To build a machine learning model that can classify proteins based on their feat
 
 📊 Model Details
 - Algorithm Used: Random Forest
-- Accuracy: 92%
+- Accuracy: 96%
 
 📁 Dataset
 - Source: PDB
