@@ -1,4 +1,5 @@
 Protein Type Prediction using Machine Learning
+
 📌 Overview
 This project focuses on predicting protein types using machine learning techniques on biological datasets. It demonstrates the application of data science and AI in bioinformatics.
 
